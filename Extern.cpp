@@ -51,7 +51,6 @@ void PrintCoordinates() {
 #include <iostream>
 #include <chrono>
 #include <memory>
-#include "People.h"
 #include "Variables.h"
 using namespace std;
 
