@@ -15,4 +15,4 @@ struct NeedsToBe128Bytes
     F32 m_b;
 };
 
-STATIC_ASSERT(sizeof(NeedsToBe128Bytes)== 128, "wrong size");
+STATIC_ASSERT(sizeof(NeedsToBe128Bytes) == 128);
