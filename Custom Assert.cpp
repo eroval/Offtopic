@@ -6,7 +6,7 @@
 	if(expr) {	}	\
 	else \
 	{	\
-		reportAssertionFailure (#exprt,	\
+		reportAssertionFailure (#expr,	\
 				__FILE__, __LINE__);	\
 		debugBreak();	\
 	}
