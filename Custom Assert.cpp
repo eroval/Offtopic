@@ -1,6 +1,6 @@
 #if ASSERTIONS_ENABLED
 
-#define debutBreak() asm {	int 3	}
+#define debugBreak() asm {	int 3	}
 
 #define ASSERT(expr)	\
 	if(expr) {	}	\
