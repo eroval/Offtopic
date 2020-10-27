@@ -98,7 +98,7 @@ int main() {
 
 
 
-//Singleton Method 3 - through the use of a static instance and private constructors:
+//Singleton Method 3 - through the use of a static instance and private constructors(the easiest and also good way):
 
 class WorldVector {
 public:
