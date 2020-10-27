@@ -88,6 +88,9 @@ Cool::Cool(const Cool& object) : name(object.name), age(object.age) {
 }
 
 
+// ------------------------------------------------------------------------------------- //
+
+
 int main() {
 	Cool a("looper", 10);
 }
