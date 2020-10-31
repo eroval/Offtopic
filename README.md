@@ -10,3 +10,6 @@
 - Singleton:
 ~ https://www.tutorialspoint.com/Explain-Cplusplus-Singleton-design-pattern
 ~ Scott Meyers
+
+- Next to read after Meyers:
+   Herb Sutter
