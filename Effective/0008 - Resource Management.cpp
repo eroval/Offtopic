@@ -7,6 +7,28 @@ class Investment { ... }; // root class of hierarchy of investment types
 
 Investment* createInvestment();
 
+void f()
+{
+	Investment* pInv = createInvestment(); // call factory function
+	... // use pInv
+		delete pInv; // release object
+}
+/*
+This looks okay, but there are several ways f could fail to delete the
+investment object it gets from createInvestment.There might be a premature
+return statement somewhere inside the “...” part of the function.
+If such a return were executed, control would never reach the
+delete statement.A similar situation would arise if the uses of createInvestment
+and delete were in a loop, and the loop was prematurely
+exited by a break or goto statement.Finally, some statement inside the
+“...” might throw an exception.If so, control would again not get to the
+delete.Regardless of how the delete were to be skipped, we’d leak not
+only the memory containing the investment object but also any
+resources held by that object.
+*/
+
+
+
 //This function isn't that good because autoptr can be used only once
 void f()
 {
