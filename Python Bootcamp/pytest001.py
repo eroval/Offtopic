@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 28 18:30:43 2021
-
-@author: Ass
-"""
 
 loc = 'Bank'
 

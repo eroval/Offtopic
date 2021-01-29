@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 29 12:47:35 2021
-
-@author: Ass
-"""
 
 mylist = [1,2,3]
 
