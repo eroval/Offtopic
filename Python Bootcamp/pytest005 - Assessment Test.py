@@ -29,7 +29,7 @@ for words in allWords:
         print("The word \"{}\" is even".format(words))
 
 #5 - Program that prints numbers from 0 to 100 and prints "Fizz" for multiples of 3 instead of the number
-#    for multiples of both 3 and 5 print "FizzBuzz"
+#    and for multiples of both 3 and 5 print "FizzBuzz"
 
 for x in range(1,101):
     if(x%3==0):
