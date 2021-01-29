@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 28 21:17:12 2021
 
-@author: Ass
-"""
 
 x=0
 
