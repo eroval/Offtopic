@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 29 14:02:21 2021
-
-@author: Ass
-"""
 
 #method 1:
 mystring = 'hello'
