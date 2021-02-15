@@ -105,7 +105,34 @@ A+4
 %transpose a matrix
 A'
 
-%max value in matrix
-val=max(A)
+A=[1 2;3 4;5 6]
+a=[1 15 2 0.5]
 
-[val,ind]=max(A)
+%max in array
+max(a)
+
+%with index
+[val,ind]=max(a)
+
+%check array
+a<3
+
+%output all element which answer to a specific case
+find(a<3)
+
+sum(a)
+floor(a)
+ceil(a)
+
+A=[1 2 3;4 5 6;7 8 9]
+[r,c]=find(A>=7)
+
+rand(3)
+
+max(rand(3),rand(3))
+
+%column-wise maximum
+max(A,[],1)
+
+%row-wise maximum
+max(A,[],2)
