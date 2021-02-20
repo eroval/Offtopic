@@ -18,10 +18,7 @@ for iter = 1:num_iters
     %
 
     var=X*theta-y;
-    temp0=theta(1)-alpha/m*sum(var.*X(:,1));
-    temp1=theta(2)-alpha/m*sum(var.*X(:,2));
-    
-    theta=[temp0;temp1]
+    theta=theta-alpha/m*X'*var;
 
 
 
