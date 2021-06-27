@@ -1,0 +1,5 @@
+id: 2
+Headline: Back to the future
+Type of issue: DISSERTATION
+Size of paper: A5
+Number of pages: 100

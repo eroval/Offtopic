@@ -1,0 +1,5 @@
+id: 3
+Headline: Looper
+Type of issue: BROCHURE
+Size of paper: A5
+Number of pages: 20

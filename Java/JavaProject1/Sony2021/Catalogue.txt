@@ -1,0 +1,52 @@
+Catalogue:
+-------------------------
+id: 1
+Headline: Looper
+Type of issue: BOOK
+Size of paper: A3
+Number of pages: 80
+
+	All printed issues:
+	-------------------------
+	EMTPY
+-------------------------
+id: 2
+Headline: Guardian
+Type of issue: NEWSPAPER
+Size of paper: A4
+Number of pages: 30
+
+	All printed issues:
+	-------------------------
+
+	Print of issue: Guardian-70
+	Type of paper: RECYCLED
+	Number of printed issues: 300
+	Cost per page: 0.04
+	Cost per issue: 1.20
+	Profit per page: 0.02
+	Profit per issue: 1.44
+	Total cost: 360.00
+	Total sells: 432.00
+	Total profit: 72.00
+
+-------------------------
+id: 3
+Headline: Star Wars
+Type of issue: BOOK
+Size of paper: A3
+Number of pages: 30
+
+	All printed issues:
+	-------------------------
+
+	Print of issue: Star Wars-60
+	Type of paper: RECYCLED
+	Number of printed issues: 30
+	Cost per page: 0.07
+	Cost per issue: 2.10
+	Profit per page: 0.01
+	Profit per issue: 2.10
+	Total cost: 63.00
+	Total sells: 63.00
+	Total profit: 0.00

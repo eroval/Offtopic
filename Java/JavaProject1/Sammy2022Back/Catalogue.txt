@@ -1,0 +1,42 @@
+Catalogue:
+-------------------------
+id: 1
+Headline: Star Wars
+Type of issue: BOOK
+Size of paper: A3
+Number of pages: 300
+
+	All printed issues:
+	-------------------------
+
+	Print of issue: Star Wars-330
+	Type of paper: GLOSS
+	Number of printed issues: 2
+	Cost per page: 0.11
+	Cost per issue: 33.00
+	Profit per page: 0.01
+	Profit per issue: 36.00
+	Total cost: 66.00
+	Total sells: 72.00
+	Total profit: 6.00
+
+-------------------------
+id: 2
+Headline: Back to the future
+Type of issue: DISSERTATION
+Size of paper: A5
+Number of pages: 100
+
+	All printed issues:
+	-------------------------
+
+	Print of issue: Back to the future-150
+	Type of paper: RECYCLED
+	Number of printed issues: 10
+	Cost per page: 0.03
+	Cost per issue: 3.00
+	Profit per page: 0.10
+	Profit per issue: 10.40
+	Total cost: 30.00
+	Total sells: 104.00
+	Total profit: 74.00

@@ -1,0 +1,10 @@
+Print of issue: Guardian1-550
+Type of paper: BOND
+Number of printed issues: 4
+Cost per page: 0.08
+Cost per issue: 0.32
+Profit per page: 0.01
+Profit per issue: 0.36
+Total cost: 1.28
+Total sells: 1.44
+Total profit: 0.16

@@ -1,0 +1,10 @@
+Print of issue: Back to the future-150
+Type of paper: RECYCLED
+Number of printed issues: 10
+Cost per page: 0.03
+Cost per issue: 3.00
+Profit per page: 0.10
+Profit per issue: 10.40
+Total cost: 30.00
+Total sells: 104.00
+Total profit: 74.00

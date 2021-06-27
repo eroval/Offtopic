@@ -1,0 +1,3 @@
+id: 3
+Max pages: 1400
+Pages per minute: 20

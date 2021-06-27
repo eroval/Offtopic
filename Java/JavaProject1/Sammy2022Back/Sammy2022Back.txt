@@ -1,0 +1,17 @@
+=========================
+Shop name: Romeo
+Minimum income threshold: 0.00
+Minimum number of printed issues for discount: 3
+Discount percentage: 20
+Base salary: 400.0
+Salary percentage bonus for managers: 10
+Global issue id: 3
+Global machine id: 4
+-------------------------
+Employee expenses: 1280.0
+Expenses for all issues: 96.00
+Profit from all issues: 176.00
+Total profit: -1104.00
+=========================
+
+

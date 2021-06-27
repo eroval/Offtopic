@@ -1,0 +1,5 @@
+id: 2
+Headline: Guardian
+Type of issue: NEWSPAPER
+Size of paper: A4
+Number of pages: 30

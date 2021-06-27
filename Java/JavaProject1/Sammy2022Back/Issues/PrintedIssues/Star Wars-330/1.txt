@@ -1,0 +1,10 @@
+Print of issue: Star Wars-330
+Type of paper: GLOSS
+Number of printed issues: 2
+Cost per page: 0.11
+Cost per issue: 33.00
+Profit per page: 0.01
+Profit per issue: 36.00
+Total cost: 66.00
+Total sells: 72.00
+Total profit: 6.00

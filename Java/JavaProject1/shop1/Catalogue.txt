@@ -1,0 +1,84 @@
+Catalogue:
+-------------------------
+id: 1
+Headline: Guardian
+Type of issue: NEWSPAPER
+Size of paper: A4
+Number of pages: 40
+
+	All printed issues:
+	-------------------------
+Print of issue: Guardian-80
+Type of paper: BOND
+Number of printed issues: 4
+Cost per page: 0.08
+Cost per issue: 0.32
+Profit per page: 0.01
+Profit per issue: 0.36
+Total cost: 1.28
+Total sells: 1.44
+Total profit: 0.16
+
+	-------------------------
+Print of issue: Guardian-80
+Type of paper: BOND
+Number of printed issues: 4
+Cost per page: 0.08
+Cost per issue: 0.32
+Profit per page: 0.01
+Profit per issue: 0.36
+Total cost: 1.28
+Total sells: 1.44
+Total profit: 0.16
+
+	-------------------------
+Print of issue: Guardian-80
+Type of paper: BOND
+Number of printed issues: 4
+Cost per page: 0.08
+Cost per issue: 0.32
+Profit per page: 0.01
+Profit per issue: 0.36
+Total cost: 1.28
+Total sells: 1.44
+Total profit: 0.16
+
+-------------------------
+id: 2
+Headline: Guardian1
+Type of issue: NEWSPAPER
+Size of paper: A5
+Number of pages: 500
+
+	All printed issues:
+	-------------------------
+Print of issue: Guardian1-550
+Type of paper: BOND
+Number of printed issues: 4
+Cost per page: 0.08
+Cost per issue: 0.32
+Profit per page: 0.01
+Profit per issue: 0.36
+Total cost: 1.28
+Total sells: 1.44
+Total profit: 0.16
+
+-------------------------
+id: 3
+Headline: Looper
+Type of issue: BROCHURE
+Size of paper: A5
+Number of pages: 20
+
+	All printed issues:
+	-------------------------
+Print of issue: Looper-70
+Type of paper: BOND
+Number of printed issues: 4
+Cost per page: 0.08
+Cost per issue: 0.32
+Profit per page: 0.01
+Profit per issue: 0.36
+Total cost: 1.28
+Total sells: 1.44
+Total profit: 0.16

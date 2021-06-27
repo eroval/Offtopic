@@ -1,0 +1,5 @@
+id: 2
+Headline: Guardian1
+Type of issue: NEWSPAPER
+Size of paper: A5
+Number of pages: 500

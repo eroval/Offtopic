@@ -1,0 +1,8 @@
+Invoice: #2
+Manufacturer: Luis Fonsi
+Receiving Company: Alehandro, Roberto
+Date: 2021-05-17
+Type of bottles: PLASTIC
+Number of sold bottles: 50
+Price of bottle: 34.0
+Total price: 1700.0

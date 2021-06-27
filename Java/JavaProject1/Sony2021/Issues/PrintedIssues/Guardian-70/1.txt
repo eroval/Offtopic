@@ -1,0 +1,10 @@
+Print of issue: Guardian-70
+Type of paper: RECYCLED
+Number of printed issues: 300
+Cost per page: 0.04
+Cost per issue: 1.20
+Profit per page: 0.02
+Profit per issue: 1.44
+Total cost: 360.00
+Total sells: 432.00
+Total profit: 72.00

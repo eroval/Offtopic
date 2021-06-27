@@ -1,0 +1,5 @@
+id: 1
+Headline: Looper
+Type of issue: BOOK
+Size of paper: A3
+Number of pages: 80

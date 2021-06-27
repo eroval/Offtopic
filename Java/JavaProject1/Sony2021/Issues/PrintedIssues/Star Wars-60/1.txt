@@ -1,0 +1,10 @@
+Print of issue: Star Wars-60
+Type of paper: RECYCLED
+Number of printed issues: 30
+Cost per page: 0.07
+Cost per issue: 2.10
+Profit per page: 0.01
+Profit per issue: 2.10
+Total cost: 63.00
+Total sells: 63.00
+Total profit: 0.00

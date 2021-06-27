@@ -1,0 +1,17 @@
+=========================
+Shop name: Sony
+Minimum income threshold: 22240.45
+Minimum number of printed issues for discount: 10
+Discount percentage: 5
+Base salary: 800.0
+Salary percentage bonus for managers: 10
+Global issue id: 4
+Global machine id: 8
+-------------------------
+Employee expenses: 2400.0
+Expenses for all issues: 6.40
+Profit from all issues: 7.20
+Total profit: -2392.80
+=========================
+
+
